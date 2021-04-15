@@ -1,1 +1,4 @@
-En este trabajo se puede concluir que
+en este aspecto mejoro 3% respecto a ...
+"En este aspecto mejoro 3% respecto a la prueba anterior"
+Aqui podemos probar como se escribe al final del archivo
+"Superando en tres de los cinco caracteristicas..."
